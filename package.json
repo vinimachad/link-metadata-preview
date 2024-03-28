@@ -1,0 +1,24 @@
+{
+  "name": "link-metadata-preview",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "tsx src/index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vinicius Galhardo Machado",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.7.1",
+    "typescript": "^5.4.3"
+  }
+}
